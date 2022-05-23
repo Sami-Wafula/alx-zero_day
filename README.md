@@ -1,2 +1,2 @@
 **My first readme**
-Editing from the github 
+Edited from GitHub 
